@@ -1,5 +1,4 @@
 # statistics
-milestone
 \begin{tabular}{|c|c|c|c|c|c|c|}
     \hline
     \textbf{age} & \textbf{sex} & \textbf{bmi} & \textbf{children} & \textbf{smoker} & \textbf{region} & \textbf{charges} \\
